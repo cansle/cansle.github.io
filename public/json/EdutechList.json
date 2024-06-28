@@ -1,0 +1,1011 @@
+[
+    {
+      "category": "영어학습",
+      "name": "AI펭톡",
+      "img": "/images/icon/aipengtalk.png",
+      "url": "https://pengtalk-student.ebse.co.kr/"
+    },
+    {
+      "category": "협업툴",
+      "name": "ALLO",
+      "img": "/images/icon/allo.png",
+      "url": "https://allo.io/ko"
+    },
+    {
+      "category": "애니메이션",
+      "name": "Animated Drawings",
+      "img": "/images/icon/ad.png",
+      "url": "https://sketch.metademolab.com/"
+    },
+    {
+      "category": "인공지능 그림",
+      "name": "Bing이미지",
+      "img": "/images/icon/bingimage.png",
+      "url": "https://www.bing.com/create?toWww=1&redig=276895C437CA48DDBA07A1918D6FB0FE"
+    },
+    {
+      "category": "구글 인공지능 그리기",
+      "name": "AutoDraw",
+      "img": "/images/icon/autodraw.png",
+      "url": "https://www.autodraw.com/"
+    },
+    {
+      "category": "LMS",
+      "name": "BlackBoard",
+      "img": "/images/icon/blackboard.png",
+      "url": "https://www.blackboard.com/ko-kr"
+    },
+    {
+      "category": "LMS",
+      "name": "캔버스",
+      "img": "/images/icon/canvas.png",
+      "url": "https://canvas.instructure.com/login/canvas"
+    },
+    {
+      "category": "그래픽",
+      "name": "캔바",
+      "img": "/images/icon/canva.png",
+      "url": "https://www.canva.com/ko_kr/"
+    },
+    {
+      "category": "인공지능 검색 채팅",
+      "name": "ChatGPT",
+      "img": "/images/icon/chatgpt.png",
+      "url": "https://openai.com/blog/chatgpt"
+    },
+    {
+      "category": "학급경영도구",
+      "name": "Class 123",
+      "img": "/images/icon/class123.png",
+      "url": "https://class123.ac/"
+    },
+    {
+      "category": "강의 연수",
+      "name": "Class101",
+      "img": "/images/icon/class101.png",
+      "url": "https://class101.net/classic"
+    },
+    {
+      "category": "무료 저작권 이미지",
+      "name": "CleanPNG",
+      "img": "/images/icon/cleanpng.png",
+      "url": "https://www.cleanpng.com"
+    },
+    {
+      "category": "오픈소스러닝",
+      "name": "coursemos",
+      "img": "/images/icon/coursemos.png",
+      "url": "https://www.coursemos.kr/"
+    },
+    {
+      "category": "그래픽",
+      "name": "DALL-E 2",
+      "img": "/images/icon/dalle2.png",
+      "url": "https://openai.com/product/dall-e-2"
+    },
+    {
+      "category": "LMS 원격수업",
+      "name": "EBS온라인",
+      "img": "/images/icon/ebsonline.png",
+      "url": "https://ebsoc.co.kr"
+    },
+    {
+      "category": "LMS 원격수업",
+      "name": "EdPuzzle",
+      "img": "/images/icon/edpuzzle.png",
+      "url": "https://edpuzzle.com/"
+    },
+    {
+      "category": "온라인클래스",
+      "name": "Edwith",
+      "img": "/images/icon/edwith.png",
+      "url": "https://www.edwith.org/"
+    },
+    {
+      "category": "LMS 원격수업",
+      "name": "e학습터",
+      "img": "/images/icon/elearning.png",
+      "url": "https://cls.edunet.net"
+    },
+    {
+      "category": "설문조사",
+      "name": "Google Forms",
+      "img": "/images/icon/googleforms.png",
+      "url": "https://www.google.com/intl/ko/forms/about/"
+    },
+    {
+      "category": "의사소통",
+      "name": "Hi Class",
+      "img": "/images/icon/hiclass.png",
+      "url": "https://www.hiclass.net/"
+    },
+    {
+      "category": "글쓰기 웹",
+      "name": "JaJak",
+      "img": "/images/icon/jajak.png",
+      "url": "https://jajakjajak.com/"
+    },
+    {
+      "category": "SNS형 업무 보드",
+      "name": "kakao Work",
+      "img": "/images/icon/kakaoworks.png",
+      "url": "https://www.kakaowork.com"
+    },
+    {
+      "category": "비디오스트리밍",
+      "name": "Kaltura",
+      "img": "/images/icon/kaltura.png",
+      "url": "https://corp.kaltura.com/"
+    },
+    {
+      "category": "의사소통학습",
+      "name": "멘티미터",
+      "img": "/images/icon/mentimeter.png",
+      "url": "https://www.mentimeter.com/"
+    },
+    {
+      "category": "Office365",
+      "name": "Microsoft 365",
+      "img": "/images/icon/m365.png",
+      "url": "https://offce.com"
+    },
+    {
+      "category": "설문조사",
+      "name": "Microsoft Forms",
+      "img": "/images/icon/microsoftforms.png",
+      "url": "https://forms.microsoft.com/"
+    },
+    {
+      "category": "업무 정리(노션형태)",
+      "name": "Microsoft Loop",
+      "img": "/images/icon/microsoftloop.png",
+      "url": "https://www.microsoft.com/en-us/microsoft-loop?ms.url=microsoftcommicrosoft-loop"
+    },
+    {
+      "category": "대화형협업플랫폼",
+      "name": "팀즈",
+      "img": "/images/icon/teams.png",
+      "url": "https://teams.microsoft.com"
+    },
+    {
+      "category": "웹기반 협업활동",
+      "name": "화이트보드",
+      "img": "/images/icon/whiteboard.png",
+      "url": "https://whiteboard.microsoft.com"
+    },
+    {
+      "category": "인공지능 그림",
+      "name": "Midjourney",
+      "img": "/images/icon/midjourney.png",
+      "url": "https://www.midjourney.com/home/"
+    },
+    {
+      "category": "오픈소스러닝",
+      "name": "Moodle",
+      "img": "/images/icon/moodle.png",
+      "url": "https://moodle.org/"
+    },
+    {
+      "category": "온라인클래스학습",
+      "name": "NearPod",
+      "img": "/images/icon/nearpod.png",
+      "url": "https://nearpod.com/login/"
+    },
+    {
+      "category": "담벼락형태 협업툴",
+      "name": "패들렛",
+      "img": "/images/icon/padlet.png",
+      "url": "https://padlet.com"
+    },
+    {
+      "category": "디지털픽셀아트",
+      "name": "PIXEL ART",
+      "img": "/images/icon/pixilart.png",
+      "url": "https://www.pixilart.com"
+    },
+    {
+      "category": "디지털형성평가",
+      "name": "Plickers",
+      "img": "/images/icon/plickers.png",
+      "url": "https://get.plickers.com/"
+    },
+    {
+      "category": "설치형 앱(스마트폰)",
+      "name": "PortraitAI",
+      "img": "/images/icon/portraitai.png",
+      "url": "https://portraitai.app/"
+    },
+    {
+      "category": "프리젠테이션",
+      "name": "Prezi",
+      "img": "/images/icon/prezi.png",
+      "url": "https://prezi.com/ko/business/business-presentation-ideas/"
+    },
+    {
+      "category": "QR코드생성",
+      "name": "QR Code",
+      "img": "/images/icon/naverqrcode.png",
+      "url": "https://qr.naver.com/"
+    },
+    {
+      "category": "AI그림 퀴즈 초급",
+      "name": "Quick Draw",
+      "img": "/images/icon/quickdraw.png",
+      "url": "https://quickdraw.withgoogle.com/?locale=ko"
+    },
+    {
+      "category": "증강현실 그림",
+      "name": "Quiver Vsion",
+      "img": "/images/icon/quiver.png",
+      "url": "https://quivervision.com/"
+    },
+    {
+      "category": "모션 무비",
+      "name": "Scroobly",
+      "img": "/images/icon/scroobly.png",
+      "url": "https://www.scroobly.com/"
+    },
+    {
+      "category": "팀공동작업리소스",
+      "name": "SharePoint",
+      "img": "/images/icon/sharepoint.png",
+      "url": "https://www.microsoft.com/ko-kr/microsoft-365/sharepoint/collaboration"
+    },
+    {
+      "category": "다채널 멀티스트리밍",
+      "name": "Steam Yard",
+      "img": "/images/icon/streamyard.png",
+      "url": "https://streamyard.com/"
+    },
+    {
+      "category": "프리젠테이션",
+      "name": "Sway",
+      "img": "/images/icon/sway.png",
+      "url": "https://sway.office.com/?omkt=ko-KR"
+    },
+    {
+      "category": "기업교육플랫폼",
+      "name": "TouchClass",
+      "img": "/images/icon/touchclass.png",
+      "url": "https://touchclass.com/ko/"
+    },
+    {
+      "category": "협업지식구성사이트",
+      "name": "Wiki",
+      "img": "/images/icon/wiki.png",
+      "url": "https://www.wikipedia.org/"
+    },
+    {
+      "category": "유튜브",
+      "name": "유튜브",
+      "img": "/images/icon/youtube.png",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "category": "메타버스 교육",
+      "name": "ZEP",
+      "img": "/images/icon/zep.png",
+      "url": "https://zep.us/"
+    },
+    {
+      "category": "줌",
+      "name": "Zoom",
+      "img": "/images/icon/zoom.png",
+      "url": "https://zoom.us"
+    },
+    {
+      "category": "AR,VR교육",
+      "name": "Zspace",
+      "img": "/images/icon/zspace.png",
+      "url": "https://zspace.com/"
+    },
+    {
+      "category": "클라우드 협업",
+      "name": "구글 드라이브",
+      "img": "/images/icon/googledrive.png",
+      "url": "https://drive.google.com"
+    },
+    {
+      "category": "스마트기기 앱",
+      "name": "구글 렌즈",
+      "img": "/images/icon/googlelense.png",
+      "url": "https://lens.google/intl/ko/"
+    },
+    {
+      "category": "화상회의 교육",
+      "name": "구글Meet",
+      "img": "/images/icon/googlemeet.png",
+      "url": "https://meet.google.com"
+    },
+    {
+      "category": "언어 번역시스템",
+      "name": "구글 번역기",
+      "img": "/images/icon/googletranslate.png",
+      "url": "https://translate.google.co.kr/"
+    },
+    {
+      "category": "설문 정보취합",
+      "name": "구글 설문",
+      "img": "/images/icon/googleforms.png",
+      "url": "https://www.google.com/intl/ko/forms/about/"
+    },
+    {
+      "category": "구글맵스",
+      "name": "구글 스트리트 뷰",
+      "img": "/images/icon/streetview.png",
+      "url": "https://www.google.co.kr/maps"
+    },
+    {
+      "category": "구글 PT",
+      "name": "구글 슬라이드",
+      "img": "/images/icon/googleslide.png",
+      "url": "https://www.google.com/intl/ko/slides/about/"
+    },
+    {
+      "category": "미술 박물관 관람",
+      "name": "구글 아트&컬쳐",
+      "img": "/images/icon/googleartnculture.png",
+      "url": "https://artsandculture.google.com/"
+    },
+    {
+      "category": "일정관리",
+      "name": "구글 캘린더",
+      "img": "/images/icon/googlecalandar.png",
+      "url": "https://calendar.google.com/calendar"
+    },
+    {
+      "category": "구글클래스룸",
+      "name": "구글 클래스 룸",
+      "img": "/images/icon/googleclassroom.png",
+      "url": "https://classroom.google.com/"
+    },
+    {
+      "category": "디지털지도",
+      "name": "구글어스",
+      "img": "/images/icon/googleearth.png",
+      "url": "https://www.google.co.kr/intl/ko/earth/"
+    },
+    {
+      "category": "온라인화상스터디",
+      "name": "구루미",
+      "img": "/images/icon/gooroomee.png",
+      "url": "https://gooroomee.com/"
+    },
+    {
+      "category": "GIS국토정보시스템",
+      "name": "국토정보 시스템",
+      "img": "/images/icon/kugto.png",
+      "url": "http://nsdi.go.kr/lxportal/?menuno=4074"
+    },
+    {
+      "category": "인공지능 채색",
+      "name": "웹툰 AI 페인터",
+      "img": "/images/icon/webtoons.png",
+      "url": "https://ai.webtoons.com/ko/painter"
+    },
+    {
+      "category": "AI 성우 동영상삽입",
+      "name": "클로바 더빙",
+      "img": "/images/icon/clova.png",
+      "url": "https://clovadubbing.naver.com"
+    },
+    {
+      "category": "설문 정보취합",
+      "name": "네이버 폼즈",
+      "img": "/images/icon/naverform.png",
+      "url": "https://office.naver.com"
+    },
+    {
+      "category": "네이버 디지털지도",
+      "name": "네이버맵",
+      "img": "/images/icon/navermaps.png",
+      "url": "https://map.naver.com"
+    },
+    {
+      "category": "클라우드관리플랫폼",
+      "name": "네이버 Works",
+      "img": "/images/icon/naverwork.png",
+      "url": "https://naver.worksmobile.com/feature/integration/workplace/"
+    },
+    {
+      "category": "프로젝트 업무게시",
+      "name": "노션",
+      "img": "/images/icon/notion.png",
+      "url": "https://www.notion.so/ko-kr"
+    },
+    {
+      "category": "사진 꽃 검색",
+      "name": "다음 꽃 검색",
+      "img": "/images/icon/flowersearch.png",
+      "url": "http://magazine.channel.daum.net/daumapp_notice/search_flower"
+    },
+    {
+      "category": "과제검사 학습",
+      "name": "다했니?",
+      "img": "/images/icon/finished.png",
+      "url": "https://dahandin.com/login"
+    },
+    {
+      "category": "용량 줄이기",
+      "name": "어도비 익스프레스",
+      "img": "/images/icon/adobeexpress.png",
+      "url": "https://www.adobe.com/kr/express/feature/video/resize"
+    },
+    {
+      "category": "인공지능 작곡",
+      "name": "두들바흐",
+      "img": "/images/icon/bach.png",
+      "url": "https://www.google.com/doodles/celebrating-johann-sebastian-bach"
+    },
+    {
+      "category": "커뮤니티 의사소통",
+      "name": "디스코드",
+      "img": "/images/icon/discord.png",
+      "url": "https://discord.com/"
+    },
+    {
+      "category": "에듀넷 디지털교과서",
+      "name": "디지털교과서",
+      "img": "/images/icon/dtbook.png",
+      "url": "https://webdt.edunet.net/login"
+    },
+    {
+      "category": "초등수학수업 지원",
+      "name": "똑똑! 수학탐험대",
+      "img": "/images/icon/tokmath.png",
+      "url": "https://www.toctocmath.kr/"
+    },
+    {
+      "category": "온라인 학습 평가",
+      "name": "띵커벨",
+      "img": "/images/icon/tinkerbell.png",
+      "url": "https://www.tkbell.co.kr"
+    },
+    {
+      "category": "온라인 학습 평가",
+      "name": "라이브워크시트",
+      "img": "/images/icon/liveworksheet.png",
+      "url": "https://www.liveworksheets.com/"
+    },
+    {
+      "category": "온라인 학습 평가",
+      "name": "라포라포",
+      "img": "/images/icon/raporapo.png",
+      "url": "https://www.raporapo.com/"
+    },
+    {
+      "category": "온라인 학습 평가",
+      "name": "랜선에듀",
+      "img": "/images/icon/lancable.png",
+      "url": "https://ele.ontactedu.co.kr"
+    },
+        {
+      "category": "마크교육용버전",
+      "name": "마인크래프트",
+      "img": "/images/icon/minecraft.png",
+      "url": "https://education.minecraft.net/ko-kr"
+    },
+    {
+      "category": "타자 연습하기",
+      "name": "한컴 타자연습",
+      "img": "/images/icon/taja.png",
+      "url": "https://tt.hancomtyping.com/"
+    },
+    {
+      "category": "랩송 만들기",
+      "name": "뮤직랩송 메이커",
+      "img": "/images/icon/musiclab.png",
+      "url": "https://musiclab.chromeexperiments.com/Song-Maker"
+    },
+    {
+      "category": "공유책 만들기",
+      "name": "북크리에이터",
+      "img": "/images/icon/bookcreator.png",
+      "url": "https://bookcreator.com"
+    },
+    {
+      "category": "영상 편집툴 일체",
+      "name": "ClipChamp",
+      "img": "/images/icon/clipchamp.png",
+      "url": "https://clipchamp.com/ko/"
+    },
+    {
+      "category": "배경 누끼",
+      "name": "사진배경제거",
+      "img": "/images/icon/removebg.png",
+      "url": "https://www.remove.bg/ko"
+    },
+    {
+      "category": "청소년 고민상담",
+      "name": "상냥이",
+      "img": "/images/icon/cat.png",
+      "url": "http://sangnyang.ai/"
+    },
+    {
+      "category": "온라인 학습 평가",
+      "name": "소크라티브",
+      "img": "/images/icon/socrative.png",
+      "url": "https://www.socrative.com"
+    },
+    {
+      "category": "EPL교육용 언어",
+      "name": "스크레치",
+      "img": "/images/icon/scratch.png",
+      "url": "https://scratch.mit.edu"
+    },
+    {
+      "category": "별자리",
+      "name": "스텔라리움",
+      "img": "/images/icon/stellarium.png",
+      "url": "https://stellarium.org/ko"
+    },
+    {
+      "category": "업무용 협업플랫폼",
+      "name": "슬랙 slack",
+      "img": "/images/icon/slack.png",
+      "url": "https://slack.com/intl/ko-kr"
+    },
+    {
+      "category": "아두이노",
+      "name": "아두이노",
+      "img": "/images/icon/arduino.png",
+      "url": "https://www.arduino.cc/"
+    },
+    {
+      "category": "MS 캘린더",
+      "name": "아웃룩 캘린더",
+      "img": "/images/icon/outlookcalandar.png",
+      "url": "https://outlook.live.com/calendar"
+    },
+    {
+      "category": "교육용 콘텐츠 제공",
+      "name": "i-scream",
+      "img": "/images/icon/icecream.png",
+      "url": "https://www.i-scream.co.kr"
+    },
+    {
+      "category": "북 스트리밍",
+      "name": "아이윙 2",
+      "img": "/images/icon/iwing.png",
+      "url": "https://iwing.co.kr/main/main"
+    },
+    {
+      "category": "앱설치 수수께끼영어",
+      "name": "아키네이터",
+      "img": "/images/icon/akinator.png",
+      "url": "https://en.akinator.com/"
+    },
+    {
+      "category": "EPL교육용 언어",
+      "name": "엔트리",
+      "img": "/images/icon/entry.png",
+      "url": "https://playentry.org"
+    },
+    {
+      "category": "교육플랫폼(코딩)",
+      "name": "엘리스",
+      "img": "/images/icon/elice.png",
+      "url": "https://elice.io"
+    },
+    {
+      "category": "전문 설문조사통계",
+      "name": "서베이몽키",
+      "img": "/images/icon/surveymonkey.png",
+      "url": "https://ko.surveymonkey.com"
+    },
+    {
+      "category": "Microsoft365",
+      "name": "엑셀(Excel)",
+      "img": "/images/icon/excel.png",
+      "url": "https://www.microsoft.com/ko-kr/microsoft-365/excel"
+    },
+    {
+      "category": "Microsoft365",
+      "name": "워드(Word)",
+      "img": "/images/icon/word.png",
+      "url": "https://www.microsoft.com/ko-kr/microsoft-365/word"
+    },
+    {
+      "category": "Microsoft365",
+      "name": "파워포인트(PowerPoint)",
+      "img": "/images/icon/powerpoint.png",
+      "url": "https://www.microsoft.com/ko-kr/microsoft-365/powerpoint"
+    },
+    {
+      "category": "디지털노트종합장",
+      "name": "원노트",
+      "img": "/images/icon/onenote.png",
+      "url": "https://www.onenote.com/Download?omkt=ko-KR"
+    },
+    {
+      "category": "클라우드 협업",
+      "name": "원드라이브(Onedrive)",
+      "img": "/images/icon/onedrive.png",
+      "url": "https://www.microsoft.com/ko-kr/microsoft-365/onedrive/online-cloud-storage"
+    },
+    {
+      "category": "온라인 수업",
+      "name": "웨일온",
+      "img": "/images/icon/whaleon.png",
+      "url": "https://whale.naver.com/ko"
+    },
+    {
+      "category": "웨일 온라인클래스",
+      "name": "웨일 클래스",
+      "img": "/images/icon/whalespace.png",
+      "url": "https://class.whalespace.io"
+    },
+    {
+      "category": "커뮤니티 의사소통",
+      "name": "위두랑",
+      "img": "/images/icon/wedorang.png",
+      "url": "https://rang.edunet.net"
+    },
+    {
+      "category": "수업관리",
+      "name": "웨일수업관리",
+      "img": "/images/icon/classmanagement.png",
+      "url": "https://classroom.whalespace.io"
+    },
+    {
+      "category": "SW교육사이트",
+      "name": "이솦",
+      "img": "/images/icon/ebssw.png",
+      "url": "https://www.ebssw.kr"
+    },
+  
+    {
+      "category": "협업구성사이트",
+      "name": "구글 잼보드",
+      "img": "/images/icon/jamboard.png",
+      "url": "https://edu.google.com/intl/ALL_kr/jamboard/"
+    },
+    {
+      "category": "저작권 없는 이미지",
+      "name": "LiitleDeep",
+      "img": "/images/icon/littledeep.png",
+      "url": "https://www.littledeep.com"
+    },
+    {
+      "category": "독서교육",
+      "name": "책열매",
+      "img": "/images/icon/bookfruits.png",
+      "url": "https://ireading.kr/"
+    },
+    {
+      "category": "디지털지도",
+      "name": "카카오맵",
+      "img": "/images/icon/kakaomaps.png",
+      "url": "https://map.kakao.com"
+    },
+    {
+      "category": "게임형 학습",
+      "name": "카훗",
+      "img": "/images/icon/kahoot.png",
+      "url": "https://kahoot.it"
+    },
+    {
+      "category": "진로정보사이트",
+      "name": "커리어 넷",
+      "img": "/images/icon/careernet.png",
+      "url": "https://www.career.go.kr"
+    },
+    {
+      "category": "메타버스 코딩 VR",
+      "name": "코스페이시스",
+      "img": "/images/icon/cospaces.png",
+      "url": "https://cospaces.io"
+    },
+    {
+      "category": "AI문제풀이",
+      "name": "콴다",
+      "img": "/images/icon/quanda.png",
+      "url": "https://qanda.ai/ko"
+    },
+    {
+      "category": "학습도구 낱말",
+      "name": "퀴즐렛",
+      "img": "/images/icon/quizzlet.png",
+      "url": "https://quizlet.com/ko"
+    },
+    {
+      "category": "온라인 학습 경쟁형",
+      "name": "퀴즈앤",
+      "img": "/images/icon/quizn.png",
+      "url": "https://www.quizn.show"
+    },
+    {
+      "category": "지식공유시스템",
+      "name": "클라썸",
+      "img": "/images/icon/classum.png",
+      "url": "https://www.classum.com/ko"
+    },
+    {
+      "category": "학습 단어장 발음",
+      "name": "클래스카드",
+      "img": "/images/icon/classcard.png",
+      "url": "https://www.classcard.net"
+    },
+    {
+      "category": "인공지능 맞춤학습",
+      "name": "클래스팅AI",
+      "img": "/images/icon/classtingai.png",
+      "url": "https://www.classting.ai/school"
+    },
+    {
+      "category": "협업, 의사소통",
+      "name": "클래스팅(Classting)",
+      "img": "/images/icon/classting.png",
+      "url": "https://www.classting.com"
+    },
+    {
+      "category": "인공지능 학습",
+      "name": "텐서플로우",
+      "img": "/images/icon/tensorflow.png",
+      "url": "https://www.tensorflow.org/?hl=ko"
+    },
+    {
+      "category": "인공지능웹툰 제작",
+      "name": "투닝",
+      "img": "/images/icon/tooning.png",
+      "url": "https://tooning.io"
+    },
+    {
+      "category": "3D 모델링 프린터",
+      "name": "틴커캐드",
+      "img": "/images/icon/tinkercad.png",
+      "url": "https://www.tinkercad.com"
+    },
+    {
+      "category": "쉬운 앱 제작(W)",
+      "name": "파워 앱스",
+      "img": "/images/icon/powerapps.png",
+      "url": "https://powerapps.microsoft.com/ko-kr"
+    },
+    {
+      "category": "프로그래밍 언어",
+      "name": "파이썬",
+      "img": "/images/icon/python.png",
+      "url": "https://www.python.org"
+    },
+    {
+      "category": "번역기",
+      "name": "파파고",
+      "img": "/images/icon/papago.png",
+      "url": "https://papago.naver.com"
+    },
+    {
+      "category": "웹오피스 문서",
+      "name": "폴라리스 오피스",
+      "img": "/images/icon/polaris.png",
+      "url": "https://www.polarisoffice.com"
+    },
+    {
+      "category": "스트리밍 송출",
+      "name": "프리즘 라이브 스튜디오",
+      "img": "/images/icon/prism.png",
+      "url": "https://prismlive.com/ko_kr/pcapp"
+    },
+    {
+      "category": "협업인터페이스",
+      "name": "피그마",
+      "img": "/images/icon/figma.png",
+      "url": "https://www.figma.com"
+    },
+    {
+      "category": "알림장 안내장 설문",
+      "name": "학교종이",
+      "img": "/images/icon/schoolbell.png",
+      "url": "https://schoolbell-e.com"
+    },
+    {
+      "category": "인공지능 그래픽",
+      "name": "Deep AI",
+      "img": "/images/icon/deepai.png",
+      "url": "https://deepai.org/machine-learning-model/text2img"
+    },
+    {
+      "category": "인공지능 그래픽",
+      "name": "노벨 AI",
+      "img": "/images/icon/novelai.png",
+      "url": "https://novelai.net/"
+    },
+    {
+      "category": "인공지능 그래픽",
+      "name": "크래용",
+      "img": "/images/icon/crayon.png",
+      "url": "https://www.craiyon.com/"
+    },
+    {
+      "category": "인공지능 그래픽",
+      "name": "아트브리더",
+      "img": "/images/icon/artbreeder.png",
+      "url": "https://www.artbreeder.com/"
+    },
+    {
+      "category": "인공지능 그래픽",
+      "name": "dream.ai",
+      "img": "/images/icon/dreamai.png",
+      "url": "https://dream.ai/"
+    },
+    {
+      "category": "",
+      "name": "플립",
+      "img": "/images/icon/flipgrid.png",
+      "url": "https://info.flip.com/en-us.html"
+    },
+    {
+      "category": "",
+      "name": "페어덱",
+      "img": "/images/icon/peardeck.png",
+      "url": "https://www.peardeck.com/"
+    },
+    {
+      "category": "",
+      "name": "튠타스틱3D",
+      "img": "/images/icon/toontastick.png",
+      "url": "https://toontastic.withgoogle.com/"
+    },
+    {
+      "category": "",
+      "name": "PuppetPals2",
+      "img": "/images/icon/purple.png",
+      "url": "http://www.polishedplay.com/support-pp2"
+    },
+    {
+      "category": "EPL교육용 언어",
+      "name": "코디니",
+      "img": "/images/icon/codiny.png",
+      "url": "https://aicodiny.com/"
+    },
+    {
+      "category": "메타 제작 이미지 분할 AI",
+      "name": "SAM",
+      "img": "/images/icon/segmentanything.png",
+      "url": "https://segment-anything.com/"
+    },
+    {
+      "category": "국내업체 게임제작 플랫폼",
+      "name": "펑크랜드스튜디오",
+      "img": "/images/icon/nekoland.png",
+      "url": "https://nekoland.net/"
+    },
+    {
+      "category": "국내업체 게임제작 플랫폼",
+      "name": "레드브릭",
+      "img": "/images/icon/redbrick.png",
+      "url": "https://redbrick.land/"
+    },
+    {
+      "category": "국내업체 게임제작 플랫폼",
+      "name": "메이플스토리월드",
+      "img": "/images/icon/maplestoryworld.png",
+      "url": "https://maplestoryworlds.nexon.com/ko/play"
+    },
+    {
+      "category": "",
+      "name": "앱시트",
+      "img": "/images/icon/appsheet.png",
+      "url": "https://cloud.google.com/appsheet?hl=ko"
+    },
+    {
+      "category": "사운드 생성 AI",
+      "name": "aiva",
+      "img": "/images/icon/aiva.png",
+      "url": "https://www.aiva.ai/"
+    },
+    {
+      "category": "MS에서 제공해주는 STEM 활동 자료 모음 사이트",
+      "name": "STEM해킹",
+      "img": "/images/icon/stemhacking.png",
+      "url": "https://learn.microsoft.com/ko-kr/training/educator-center/instructor-materials/hacking-stem"
+    },
+    {
+      "category": "앱인벤터 등과 유사함",
+      "name": "웹IDE",
+      "img": "/images/icon/replit.png",
+      "url": "https://replit.com/"
+    },
+    {
+      "category": "",
+      "name": "구글 AI",
+      "img": "/images/icon/atozofai.png",
+      "url": "https://atozofai.withgoogle.com/"
+    },
+    {
+      "category": "인공지능 개념 학습 자료 제공",
+      "name": "Elementsofai",
+      "img": "/images/icon/elementsofai.png",
+      "url": "https://www.elementsofai.com/"
+    },
+    {
+      "category": "교육플랫폼(코딩)",
+      "name": "코들",
+      "img": "/images/icon/codle.png",
+      "url": "https://codle.io/"
+    },
+    {
+      "category": "",
+      "name": "텐서플로우플레이그라운드",
+      "img": "/images/icon/tsplayground.png",
+      "url": "http://playground.tensorflow.org/"
+    },
+    {
+      "category": "",
+      "name": "오렌지3",
+      "img": "/images/icon/orange3.png",
+      "url": "https://orangedatamining.com/"
+    },
+    {
+      "category": "",
+      "name": "네이버 데이터랩",
+      "img": "/images/icon/naverdatalab.png",
+      "url": "https://datalab.naver.com/"
+    },
+    {
+      "category": "",
+      "name": "구글 트렌드",
+      "img": "/images/icon/googletrend.png",
+      "url": "https://trends.google.co.kr/home"
+    },
+    {
+      "category": "",
+      "name": "카카오데이터트렌드",
+      "img": "/images/icon/datatrend.png",
+      "url": "https://datatrend.kakao.com/"
+    },
+    {
+      "category": "",
+      "name": "썸트렌드",
+      "img": "/images/icon/sometrend.png",
+      "url": "https://some.co.kr/"
+    },
+    {
+      "category": "웹에서 파이썬 코딩 가능한 플랫폼(레고제품들과 호환)",
+      "name": "pybrick",
+      "img": "/images/icon/pybrick.png",
+      "url": "https://pybricks.com/"
+    },
+    {
+      "category": "",
+      "name": "마이크로비트",
+      "img": "/images/icon/microbit.png",
+      "url": "https://microbit.org/ko/code/"
+    },
+    {
+      "category": "",
+      "name": "구글디지털리터러시",
+      "img": "/images/icon/googledigital.png",
+      "url": "https://beinternetawesome.withgoogle.com/ko_kr/?fbclid=IwAR1SAtoE8vz5zVfwc-9087wMqOzTNYr3mVmGbFyN7qNMn69uuCVMF1C08bg"
+    },
+    {
+      "category": "",
+      "name": "B discover",
+      "img": "/images/icon/bdiscover.png",
+      "url": "https://bdiscover.kakaobrain.com/explore"
+    },
+    {
+      "category": "수학 학습 플랫폼",
+      "name": "칸 아카데미",
+      "img": "/images/icon/khanacademy.png",
+      "url": "https://ko.khanacademy.org/"
+    },
+    {
+      "category": "인공지능 개념 학습 플랫폼",
+      "name": "EDU AI",
+      "img": "/images/icon/keris.png",
+      "url": "https://keris-eduai.co.kr/#/"
+    },
+    {
+      "category": "3D컨텐츠 제작 툴 틴커캐드와 유사(?)",
+      "name": "엔닷캐드",
+      "img": "/images/icon/tinkercad.png",
+      "url": "https://www.ndotcad.com/ko"
+    },
+    {
+      "category": "",
+      "name": "인디스쿨",
+      "img": "/images/icon/indischool.png",
+      "url": "https://indischool.com/"
+    }
+  ]

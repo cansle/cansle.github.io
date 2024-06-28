@@ -1,0 +1,159 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #000;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* 중앙 정렬 */
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+}
+
+.author {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: right;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.input-container {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.text-input {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.update-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.card-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  flex: 1;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  background-color: #000000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.card-content {
+  position: relative;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  background-color: #000;
+}
+
+.card-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.result {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-size: 12px; 
+}
+
+
+.result pre {
+  white-space: pre-wrap; /* 줄바꿈 유지 */
+  font-family: 'Courier New', Courier, monospace; /* 원하는 폰트 지정 */
+}
+
+.loading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(228, 228, 228, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 99;
+}
+
+.loading img {
+  width: 100px;
+  height: 100px;
+}
+
+.loading p {
+  margin-top: 10px;
+  color: #333;
+  font-size: 20px;
+}
+
+/* 미디어 쿼리 추가 */
+@media (max-width: 768px) {
+  .card {
+    flex-basis: calc(50% - 20px); /* 화면 크기가 작을 때 카드 크기 조절 */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card-text {
+    font-size: 25px; /* 작은 화면에서 텍스트 크기 조절 */
+  }
+}
+
+/* 미디어 쿼리: 화면 크기가 480px 이하일 때 */
+@media screen and (max-width: 480px) {
+  .card-text {
+    font-size: 20px; /* 더 작은 화면에서 텍스트 크기 조절 */
+  }
+}
